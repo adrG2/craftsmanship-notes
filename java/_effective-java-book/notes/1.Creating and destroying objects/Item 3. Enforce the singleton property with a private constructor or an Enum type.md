@@ -53,3 +53,6 @@ private Object readResolve() {
 ## Singleton enum type
 
 Este enfoque es parecido al de campo público, pero es más conciso, provee la maquinaria de serialización gratis, y proporciona una garantía férrea contra la instanciación múltiple, incluso frente a sofisticados ataques de serialización o de reflexión. **Un single-element enum type suele ser la mejor forma de implementar un singleton**. No puedes usar este enfoque si tu singleton debe heredar de una superclase que no sea Enum(aunque se puede declarar un Enum para implementar las interfaces). 
+
+
+## [Volver](https://github.com/adrG2/software-craftsman-notebook/tree/main/java/_effective-java-book)

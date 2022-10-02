@@ -21,3 +21,5 @@ public class UtilityClass {
 Ahora es inaccesible desde fuera de la clase. El AssertionError no es estrictamente necesario pero da la seguridad de que el constructor no va a ser invocado por accidente dentro de la clase. Garantiza que la clase nunca será instanciada. 
 
 Como efecto secundario, esto también previene que la clase sea heredada. Todos los constructores deben invocar un constructor de su superclase, explícitamente o implícitamente, y una subclase no tendría ningún constructor accesible de una superclase para invocar. 
+
+## [Volver](https://github.com/adrG2/software-craftsman-notebook/tree/main/java/_effective-java-book)

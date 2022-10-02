@@ -61,3 +61,5 @@ Cuando los programadores tiene este problema por primera vez, pueden tratar de s
 **Siempre que una clase gestiona su propia memoria, el programador debe estar alerta de las memory leaks(fugas de memoria)**. 
 
 **Otra fuente común de memory leaks es la Caché**. Una vez que pones una referencia dentro de una caché, es fácil olvidarte de que está ahí y es posible que cuando ya sea irrelevante siga estando dentro de la caché. Si tienes la suerte de implementar una caché para la 
+
+## [Volver](https://github.com/adrG2/software-craftsman-notebook/tree/main/java/_effective-java-book)

@@ -72,3 +72,5 @@ El patrón Builder tiene desventajas también. Para crear un objeto, primero deb
 
 En resumen, **el patrón Builder es una buena opción cuando diseñamos clases cuyos constructores o factorías estáticas tendrían más de un puñado de parámetros**, especialmente si muchos de los parámetros son opcionales o del mismo tipo. El código del cliente es más fácil de leer y escribir con builder que con constructores telescópicos, y los builders son más seguros que JavaBeans. 
 
+
+## [Volver](https://github.com/adrG2/software-craftsman-notebook/tree/main/java/_effective-java-book)

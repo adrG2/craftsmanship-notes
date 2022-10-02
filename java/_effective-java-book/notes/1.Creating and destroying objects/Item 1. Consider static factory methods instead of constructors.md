@@ -181,3 +181,4 @@ Se puede reducir este problema dirigiendo la atención a las static factories en
     ```
 
 
+## [Volver](https://github.com/adrG2/software-craftsman-notebook/tree/main/java/_effective-java-book)
