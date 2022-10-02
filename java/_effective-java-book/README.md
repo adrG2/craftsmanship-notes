@@ -1,8 +1,8 @@
 # Apuntes libro Effective Java
 
-## [I. Creación y destrucción de objetos](https://github.com/adrG2/software-craftsman-notebook/tree/master/_effective-java-notes/notes/1.Creating%20and%20destroying%20objects)
+## [I. Creación y destrucción de objetos](https://github.com/adrG2/software-craftsman-notebook/blob/main/java/_effective-java-book/notes/1.Creating-and-destroying-objects)
 
-* [Item 1: Considera usar static factory methods en vez de constructores](https://github.com/adrG2/software-craftsman-notebook/blob/master/_effective-java-notes/notes/1.Creating%20and%20destroying%20objects/Item%201.%20Consider%20static%20factory%20methods%20instead%20of%20constructors.md)
+* [Item 1: Considera usar static factory methods en vez de constructores](https://github.com/adrG2/software-craftsman-notebook/blob/main/java/_effective-java-book/notes/1.Creating-and-destroying-objects/Item1-static-factory-method.md)
 
 * [Item 2. Consider a builder when faced with constructor parameters](https://github.com/adrG2/software-craftsman-notebook/blob/master/_effective-java-notes/notes/1.Creating%20and%20destroying%20objects/Item%202.%20Consider%20a%20builder%20when%20faced%20with%20constructor%20parameters.md)
 
