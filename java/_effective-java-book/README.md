@@ -12,12 +12,12 @@
 
 * [Item 5. Prefer Dependency injection to hardwiring resources](https://github.com/adrG2/software-craftsman-notebook/blob/main/java/_effective-java-book/notes/1.Creating-and-destroying-objects/item5-di.md)
 
-* [Item 6](https://github.com/adrG2/software-craftsman-notebook/blob/main/java/_effective-java-book/notes/1.Creating-and-destroying-objects/item6-avoid-creating-unnecessary-objects.md)
+* [Item 6. Avoid creating unnecessary objects](https://github.com/adrG2/software-craftsman-notebook/blob/main/java/_effective-java-book/notes/1.Creating-and-destroying-objects/item6-avoid-creating-unnecessary-objects.md)
 
-* [Item 7](https://github.com/adrG2/software-craftsman-notebook/blob/main/java/_effective-java-book/notes/1.Creating-and-destroying-objects/item7-eliminate-obsolete-object-references.md)
+* [Item 7. Eliminate obsolete object references](https://github.com/adrG2/software-craftsman-notebook/blob/main/java/_effective-java-book/notes/1.Creating-and-destroying-objects/item7-eliminate-obsolete-object-references.md)
 
 
-## [II. Métodos comunes a todos los objetos](https://github.com/adrG2/software-craftsman-notebook/tree/master/_effective-java-notes/notes/2.Methods%20common%20to%20all%20objects)
+## [II. Métodos comunes a todos los objetos](https://github.com/adrG2/software-craftsman-notebook/tree/main/java/_effective-java-book/notes/2.Methods-common-to-all-objects)
 
 * [Item 10: Obey the general contract when override equals](https://github.com/adrG2/software-craftsman-notebook/blob/main/java/_effective-java-book/notes/2.Methods-common-to-all-objects/item-10-override-equals.md)
 
