@@ -17,4 +17,8 @@
 git log --pretty=format: --name-only | sort | uniq -c | sort -rg | grep '.ts' | head -10
 ```
 
+### This git command finds the 50 hotspots of your legacy codebase:
+```bash
+git log --format=format: --name-only --since=12.month| egrep -v '^$' | sort | uniq -c | sort -nr | head -50
+```
 
